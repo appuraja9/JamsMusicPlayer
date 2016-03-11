@@ -1,4 +1,4 @@
-Jams Music Player
+Appu Music Player
 ===================
 Jams is a free, powerful and elegant music player for Android. Jams used to be a trial/paid app on the Play Store. Due to my lack of adequate free time and Google's <a href="http://phandroid.com/2014/09/18/google-play-now-requires-devs-to-make-their-home-address-public/">new requirement for paid developers to publicly display their home address</a>, I've decided that I can no longer provide the level of support and regular updates that paid users expect from a developer. 
 
